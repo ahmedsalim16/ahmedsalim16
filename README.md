@@ -3,7 +3,9 @@
 
 
 ### Hi there 👋
-### iam Ahmed salim iam a  Front-end Engineer(Front-End heavy) building web solutions for more than 1 years now from scratch i studied some programming languages such as (HTML,CSS,JavaScript,BOOTSTRAP) 🧑‍💻
+### I am a creative
+frontend developer
+Ahmed Salim Fathy – Front-End Developer A passionate and detail-oriented Front-End Developer with 2 years of experience in designing and implementing user-friendly, responsive web interfaces. Proficient in HTML, CSS, JavaScript, Bootstrap, and modern frameworks such as Angular. Skilled in translating complex design concepts into clean, efficient, and accessible code, ensuring seamless user experiences across all devices. Committed to continuous learning and staying up to date with the latest industry trends. Adept at collaborating with cross-functional teams to deliver high-quality digital products. 🧑‍💻
 
 
 
